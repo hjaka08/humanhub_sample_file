@@ -1,0 +1,3 @@
+phonenumber:
+    #{(폰코드) , (전화번호)}
+    {"phonecode":"A1005","phonen":"010-1234-1234"}
